@@ -23,6 +23,6 @@ function spread(promise) {
   };
 }
 
-if(Promise) spread();
+if(typeof Promise !== 'undefined') spread();
 
 module.exports = spread;
