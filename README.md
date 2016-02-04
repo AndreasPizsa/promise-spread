@@ -12,14 +12,7 @@ $ npm i promise-spread --save
 
 ## Usage
 
-#### with native-or-bluebird
-
-```js
-var Promise = require('native-or-bluebird');
-require('promise-spread')(Promise);
-```
-
-#### with any-promise
+#### with `any-promise`
 
 ```js
 var Promise = require('any-promise');

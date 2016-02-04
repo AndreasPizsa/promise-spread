@@ -34,5 +34,8 @@
     "any-promise",
     "native-or-bluebird",
     "bluebird"
-  ]
+  ],
+  "publishConfig" : {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
