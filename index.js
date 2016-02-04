@@ -25,4 +25,4 @@ function spread(promise) {
 
 if(Promise) spread();
 
-module.exports.spread = spread;
+module.exports = spread;

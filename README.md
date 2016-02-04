@@ -12,12 +12,6 @@ $ npm i promise-spread --save
 
 ## Usage
 
-#### with native Promises
-
-```js
-require('promise-spread')(Promise);
-```
-
 #### with native-or-bluebird
 
 ```js
@@ -30,6 +24,12 @@ require('promise-spread')(Promise);
 ```js
 var Promise = require('any-promise');
 require('promise-spread')(Promise);
+```
+
+#### with native Promises
+
+```js
+require('promise-spread');
 ```
 
 ## Alternatives to using `spread()`
