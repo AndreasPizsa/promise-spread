@@ -1,0 +1,28 @@
+{
+  "name": "promise-spread",
+  "description": "`spread()` for native ES6 Promises",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AndreasPizsa/promise-spread",
+  "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
+  "repository": "AndreasPizsa/promise-spread",
+  "bugs": {
+    "url": "https://github.com/AndreasPizsa/promise-spread/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": ["promises","native","spread","es6","any-promise","native-or-bluebird","bluebird"]
+}
