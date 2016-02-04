@@ -1,6 +1,6 @@
 var assert = require('assert');
 describe("Promise.spread", function(){
-  require('.')(require('any-promise'));
+  require('./')(require('any-promise'));
 
   it("can spread()", function(){
     return Promise
