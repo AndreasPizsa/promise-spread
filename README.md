@@ -1,4 +1,4 @@
-# promise-spread ![Travis](https://img.shields.io/travis/[object Object].svg?style=flat-square) [![Coverage Status](https://img.shields.io/coveralls/[object Object].svg?style=flat-square)](https://coveralls.io/github/[object Object]?branch=master) ![Downloads](https://img.shields.io/npm/dm/promise-spread.svg?style=flat-square)
+# promise-spread ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-spread.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-spread.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-spread.svg?style=flat-square)
 
 > `spread()` for native ES6 Promises
 
