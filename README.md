@@ -1,5 +1,7 @@
 # promise-spread ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-spread.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-spread.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-spread.svg?style=flat-square)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/promise-spread.svg)](https://greenkeeper.io/)
+
 > `spread()` for native ES6 Promises
 
 ## Install
