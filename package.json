@@ -22,7 +22,7 @@
   "dependencies": {},
   "devDependencies": {
     "any-promise": "^1.1.0",
-    "bluebird": "^3.2.1",
+    "bluebird": "^3.5.4",
     "mocha": "*",
     "should": "*"
   },
