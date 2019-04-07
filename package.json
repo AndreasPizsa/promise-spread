@@ -23,7 +23,7 @@
   "devDependencies": {
     "any-promise": "^1.1.0",
     "bluebird": "^3.2.1",
-    "mocha": "*",
+    "mocha": ">=6.1.0",
     "should": "*"
   },
   "keywords": [
